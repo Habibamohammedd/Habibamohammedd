@@ -21,9 +21,9 @@
       I specialize in creating seamless, accessible, and visually captivating experiences using:
     </p>
     <div style="list-style-type: none; padding-left: 0; color: #007bff; font-size: 1rem; margin: 0;">
-      <p> • 🌐 <strong>HTML, CSS, and JavaScript</strong></p>
-      <p> • ⚛️ <strong>React</strong></p>
-      <p> • 🎨 Modern design libraries like <strong>Tailwind</strong> and <strong>Bootstrap</strong></p>
+      <p> • 🌐 <strong>HTML, CSS, JavaScript and jquery. </strong></p>
+      <p> • ⚛️ <strong>React</strong> .</p>
+      <p> • 🎨 Modern design libraries like <strong>Tailwind</strong> and <strong>Bootstrap</strong> .</p>
     </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
